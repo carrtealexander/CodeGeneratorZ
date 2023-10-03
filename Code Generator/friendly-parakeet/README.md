@@ -8,14 +8,14 @@ My attempt at modifying existing code to fulfill User Story Requirements.
 
 
 
-##Technolgy
+## Technolgy
 .html
 .js
 .css
 
 
 
-##Requirments 
+## Requirments 
 
 
 Meet acceptance Criteria below:
